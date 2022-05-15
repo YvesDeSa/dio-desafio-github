@@ -1,0 +1,10 @@
+Instalação da Angular CLI no Windows
+Primeiro, você precisa ter o Node e o npm instalados na sua máquina de desenvolvimento. Existem muitas maneiras de se fazer isso, tais como:
+
+usar o NVM (Node Version Manager) para a instalação e trabalho com muitas versões do Node em seu sistema
+usar o gerenciador de pacotes oficial do seu sistema operacional
+instalar a partir do site oficial da web.
+
+Certifique-se de que o Node esteja instalado em seu sistema executando o comando: node -v
+
+Depois, execute o seguinte comando para instalar a Angular CLI: npm install @angular/cli
